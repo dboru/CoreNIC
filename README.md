@@ -1,1 +1,1 @@
-# CoreNIC
+# CoreNIC Getting Started Guide
